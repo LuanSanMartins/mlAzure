@@ -1,0 +1,10 @@
+Atividade Azure Machine Learning:
+
+1 - Criou-se o "machine learning workspace";
+2 - Iniciou-se o "machine learning studio";
+3 - Criou-se um trabalho de "ML automatizado". A seguir, tem-se um resumo das características abaixo consideradas:
+  - Tarefa: regressão;
+  - Dataset: dados históricos sobre alugueis de bicicletas;
+  - Tipo de aprendizagem: supervisionada;
+  - Métrica: erro quadrático médio.
+4 - Testou-se o modelo "ML automatizado".
